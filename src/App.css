@@ -22,6 +22,16 @@
   font-size: large;
 }
 
+#root {
+  margin: 0 auto;
+  max-width: 340px;
+  min-height: 600px;
+    /* background-color: #81C3DB; */
+    background: linear-gradient(110deg, #e2ebf0
+ 60%, #cfd9df 60%);
+    padding-bottom: 5px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

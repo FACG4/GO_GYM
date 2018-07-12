@@ -1,0 +1,86 @@
+/* .score {
+  display: flex;
+  justify-content: center;
+} */
+/* body{
+  width: 375px;
+  height: 667px;
+} */
+
+.red_bg {
+  background-color: #ff7e5f;
+  margin-top: 0px;
+}
+
+.red_bg img{
+  background-color: #ce6d6d
+}
+
+.blue_bg {
+  background-color: #289AD0;
+}
+
+.blue_bg img{
+  background-color: #2892c4;
+}
+
+.green_bg {
+  background-color: #D1FF82;
+}
+
+.green_bg img{
+  background-color: #b2da6e;
+}
+
+.add-score {
+  font-size: 21px;
+  margin: 12px auto;
+  color: #2087B7;
+  width: 95%;
+  text-align: center;
+  font-weight: normal;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  width: 85%;
+  height: 88px;
+  margin: 30px auto;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  padding: 1px;
+  /* box-shadow: 1px 1px #888888; */
+  box-shadow: gray -2px 9px 35px 0px;
+}
+
+.flex-container img {
+  width: 80px;
+  height: 80px;
+  box-shadow: black -8px 0px 8px -5px;
+  border-radius: 50%;
+}
+
+.flex-container input {
+  width: 125px;
+  height: 40px;
+  margin: 0 8px;
+  border-radius: 25px;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+}
+
+.submit_button{
+  font-size: 21px;
+  margin: 5px 90px;
+  width: 133px;
+  height: 41px;
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  border-radius: 20px;
+  background-color: #D57575;
+}

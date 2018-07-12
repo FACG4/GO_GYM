@@ -24,5 +24,5 @@ certain exercise.
 * npm start.
 * npm test (run tests).
 
-### Heroku Link:
-* [GSG_Narrowcast]().
+### github Pages Link:
+* [here](https://facg4.github.io/GO_GYM/).

@@ -1,5 +1,8 @@
 # GO_GYM:
-An app that allows you to keep track your Gym exercise and keep you motivated.
+
+![GO GYM](https://st3.depositphotos.com/4114101/13807/v/1600/depositphotos_138075362-stock-illustration-black-kettlebell-on-colorful-brush.jpg)
+
+An APP that allows you to keep track your Gym exercise and keep you motivated.
 
 
 ### Problem Statement:
